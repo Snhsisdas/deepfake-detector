@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+facenet-pytorch
+opencv-python
+streamlit
+numpy
+pillow
+tqdm

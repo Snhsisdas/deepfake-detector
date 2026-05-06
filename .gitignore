@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets and Large Media
+dataset/
+*.mp4
+*.avi
+*.mov
+
+# Model checkpoints (optional: you can remove this if you want to upload the 15MB model)
+# model_checkpoint.pth
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
